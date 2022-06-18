@@ -92,10 +92,10 @@ if( empty($_SESSION['uname']) ){
                     </li>
                     <br>
                     <li class="nav-item">
-                        <p><strong>NAMA KALIAN</strong></p>
+                        <p><strong>Ardiya Malik Jaelani</strong></p>
                     </li>
                     <li class="nav-item">
-                        <p>NIM KALIAN</p>
+                        <p>6706210140</p>
                     </li>
                     </li>
                 </ul>
